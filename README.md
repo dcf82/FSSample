@@ -12,8 +12,20 @@ The app has basically three screens:
 ## HomeActivity (home)
 This screen is where we actually type the search criterion (input text) we want to look for, it's very IMPORTANT to remember that we need to have a good internet connection to be able to get results from internet.
 
+![](https://github.com/dcf82/FSSample/blob/master/home.png)
+
 ## FourSquareListActivity
 This screen is basically where you'll see the results after a successful search, in the bottom left cortner of the screen we will se a button where we are able two switch from two different presentations, the results can be seen inside a List or direcly from a Google Maps view, so from both places you can click over any particular place and see the description of it.
 
+![](https://github.com/dcf82/FSSample/blob/master/list.png)
+
+![](https://github.com/dcf82/FSSample/blob/master/map1.png)
+
+![](https://github.com/dcf82/FSSample/blob/master/map2.png)
+
 ## VenueItemDetailsActivity
 This screen is basically where you will see the details of each place, and also you will be able to mark it as favorite by clicking over the favorite icon.
+
+![](https://github.com/dcf82/FSSample/blob/master/details1.png)
+
+![](https://github.com/dcf82/FSSample/blob/master/details2.png)
